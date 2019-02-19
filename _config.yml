@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 #我使用了disqus而不是gitalk
-  Disqus（https://disqus.com/）
+ #Disqus（https://disqus.com/）
   disqus_username: murphyli
 
 # Gitalk
